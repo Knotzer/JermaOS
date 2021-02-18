@@ -10,6 +10,16 @@ https://mega.nz/file/mxdkmJLD#tyiLMuF1y595r347TNKrgI5tPI-o7KweGE0V2AD_Tv8
 
 ==============================================================
 
+IMPORTANT INFO
+
+==============================================================
+
+DEFAULT PASSWORD: imposter
+
+TO PLAY AMONG US, GO TO THE APPLACATION CALLED TERMINAL,
+THEN TYPE ./amogus.sh
+
+==============================================================
 
 WELCOME TO:
 
