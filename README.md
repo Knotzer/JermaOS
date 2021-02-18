@@ -1,12 +1,21 @@
 # JermaOS
 A Os that is Sus
+==============================================================
+DOWNLOAD LINK
+==============================================================
+
+
+https://mega.nz/file/mxdkmJLD#tyiLMuF1y595r347TNKrgI5tPI-o7KweGE0V2AD_Tv8
+
+
+==============================================================
 
 
 WELCOME TO:
 
 JERMA OS
 
-THE IS THAT IS VERY SUS
+THE OS THAT IS VERY SUS :O
 
 Based on Ubuntu: Linux, this is the NEXT GENERATION of operating systems. Say goodbye to Windows and MacOS, because this operating system is the greatest
 system to ever exist EVER! Unlike those OTHER pesky systems this operating system is strategically designed to make you feel PAIN. :)
@@ -73,7 +82,7 @@ For this method we recommend a USB flash drive of at least:
 8 GB
 
 STEP 1:
-GO TO RELEASES AND DOWNLOAD THE OS
+GO TO THE LINK AT THE TOP OF THE PAGE AND DOWNLOAD THE OS
 (Might take a while)
 
 STEP 2:
@@ -102,7 +111,7 @@ METHOD 2: DISK DRIVE
 
 FOR THIS TO WORK YOU WILL NEED 2 THINGS A DVD WRITER INSTALLED INTO YOUR COMPUTER AND A BLANK DVD-R OR DVD-RW DISK
 
-STEP 1: DOWNLOAD THE ISO FROM RELEASES
+STEP 1: DOWNLOAD THE ISO FROM THE LINK AT THE TOP OF THE PAGE
 
 STEP 2: INSERT A BLANK DVD INTO YOUR DVD DRIVE
 
